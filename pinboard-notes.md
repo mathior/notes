@@ -19,6 +19,7 @@ $11/year
 ## Notable
 - by default public (privacy settings)
 
-## Tour
-https://pinboard.in/tour/
+## Links
+(Pinboard)[https://pinboard.in "Pinboard"]
+(Pinboard Tour)[https://pinboard.in/tour/ "Pinboard Tour"]
 
