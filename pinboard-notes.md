@@ -20,6 +20,6 @@ $11/year
 - by default public (privacy settings)
 
 ## Links
-(Pinboard)[https://pinboard.in "Pinboard"]
-(Pinboard Tour)[https://pinboard.in/tour/ "Pinboard Tour"]
+[Pinboard](https://pinboard.in "Pinboard")  
+[Pinboard Tour](https://pinboard.in/tour/ "Pinboard Tour")  
 

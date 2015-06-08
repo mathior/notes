@@ -51,9 +51,9 @@ Webmontag #28 2015-06-08
 
 ## Links
 
-Überblick: [https://www.class-central.com/](https://www.class-central.com/ "ClassCentral")
-[edX Website](https://www.edx.org/ "edX")
-[Coursera Website](https://www.coursera.org/ "Coursera")
-[Udacity Website](https://www.udacity.com/ "Udacity")
+Überblick: [https://www.class-central.com/](https://www.class-central.com/ "ClassCentral")  
+[edX Website](https://www.edx.org/ "edX")  
+[Coursera Website](https://www.coursera.org/ "Coursera")  
+[Udacity Website](https://www.udacity.com/ "Udacity")  
 
 
